@@ -1,0 +1,9 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "AFK bot pro Minecraft server",
+  "main": "bot.js",
+  "dependencies": {
+    "mineflayer": "^4.5.0"
+  }
+}
